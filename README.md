@@ -26,6 +26,7 @@ KTX3/
 │           ├── LoginForm.jsx           # Form đăng nhập, gửi POST /login, lưu token vào localStorage
 │           └── ProductList.jsx         # 3 state (data, loading, error), useEffect gọi GET /api/products
 │
+├── BAO_CAO_MINI_PROJECT_JWT_SAN_PHAM.docx # File Word báo cáo hoàn chỉnh nộp bài
 └── README.md
 ```
 
