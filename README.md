@@ -26,14 +26,6 @@ KTX3/
 │           ├── LoginForm.jsx           # Form đăng nhập, gửi POST /login, lưu token vào localStorage
 │           └── ProductList.jsx         # 3 state (data, loading, error), useEffect gọi GET /api/products
 │
-├── screenshots/                        # Ảnh chụp các màn hình chạy thực tế
-│   ├── 01_man_hinh_dang_nhap.png
-│   ├── 02_dang_nhap_that_bai_401.png
-│   ├── 03_danh_sach_san_pham_jwt.png
-│   ├── 04_loi_token_khong_hop_le_403.png
-│   └── 05_loi_chua_dang_nhap_401.png
-│
-├── BAO_CAO_MINI_PROJECT_JWT_SAN_PHAM.docx # File Word báo cáo hoàn chỉnh nộp bài
 └── README.md
 ```
 
